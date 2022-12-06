@@ -65,7 +65,19 @@ Directly under there is a two box where users can input their post code (4) and 
 Moving down the page, there are 3 additional buttons (6,7,8)
 each preforming a task, nicely ladled and self-explanatory.
 When the user clicks “GET GPS LOCATION” (7) button, they will see a shot loading animation and some text saying “collecting data” so the user knows that something is happening in the app, once its done the user will see a small notification that GPS location is retrieved.
+
+
+
+![Picture5](https://user-images.githubusercontent.com/114151300/205934131-4d7e39a2-eb77-4f9f-a708-46209f305df7.png)
+
+
+
 Once the user has interacted with widgets 1,2,3,4,5,6 they can then click the “add button” (7), they will be prompted with a new window and a notification “new record inserted”. This new window shows all the data that has been inputted from the user and displays it for the user in a nice format, when the user is done, they can click the back arrow at the top to return to main page.
+
+
+![Picture6](https://user-images.githubusercontent.com/114151300/205934229-7112149f-9d57-47d9-b864-aca577bbe45d.png)
+
+
 
  If the user clicks “View all” (8) button they will see a list of all the previous interactions and there inputs.
 
