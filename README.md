@@ -39,9 +39,7 @@ Usability:
 ![Picture2](https://user-images.githubusercontent.com/114151300/205933291-075c9f97-8c91-45cf-9967-f877dcce516d.png)
 ![Screenshot 2022-12-06 140435](https://user-images.githubusercontent.com/114151300/205933388-56e3d90a-f724-454f-8958-6555b4d19213.png)
 
-The app is super simple and straight forward leaving no confusion for the user, no registration is required. When the user opens the app, they are instantly greeted with a simple page. Name of the app buttons to interact with and text boxes to fill.
-## User experience/usability:
-three different options of fuel, buttons they can click.
+
 
 
 
@@ -49,7 +47,9 @@ three different options of fuel, buttons they can click.
 ![Picture3](https://user-images.githubusercontent.com/114151300/205933464-2f32f929-9fe2-4107-83b8-4047ba45307f.png)
 
 
-
+The app is super simple and straight forward leaving no confusion for the user, no registration is required. When the user opens the app, they are instantly greeted with a simple page. Name of the app buttons to interact with and text boxes to fill.
+## User experience/usability:
+three different options of fuel, buttons they can click.
 
 - 	Petrol (1) 
 - 	Diesel (2)
