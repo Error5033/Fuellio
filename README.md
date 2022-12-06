@@ -37,7 +37,8 @@ Usability:
 
 ## Wireframe and Prototype:
 ![Picture2](https://user-images.githubusercontent.com/114151300/205933291-075c9f97-8c91-45cf-9967-f877dcce516d.png)
-![Screenshot 2022-12-06 140435](https://user-images.githubusercontent.com/114151300/205933388-56e3d90a-f724-454f-8958-6555b4d19213.png)
+![Screenshot 2022-12-06 150447](https://user-images.githubusercontent.com/114151300/205947974-2c9a1f02-3da4-4ce6-bd88-3dc83679060b.png)
+
 
 The navigation is simple, there are tree pages in this application, when the app is opened the first page is displayed. When the user clicks “add” button it takes time to the second page where he can see all the data they inputted, when they click back arrow it takes them back to the main page, page 1. When the user clicks “VIEW ALL” it takes them to the third page where they can see a list of all the previous inputs gathered from page 2 and they can return from page 3 to page 1 simply by pressing the arrow back key.
 
