@@ -44,13 +44,18 @@ The navigation is simple, there are tree pages in this application, when the app
 
 
 
-![Picture3](https://user-images.githubusercontent.com/114151300/205933464-2f32f929-9fe2-4107-83b8-4047ba45307f.png)
+
+
 
 
 
 ## User experience/usability:
+
+
 The app is super simple and straight forward leaving no confusion for the user, no registration is required. When the user opens the app, they are instantly greeted with a simple page. Name of the app buttons to interact with and text boxes to fill.
 three different options of fuel, buttons they can click.
+
+![Picture3](https://user-images.githubusercontent.com/114151300/205933464-2f32f929-9fe2-4107-83b8-4047ba45307f.png)
 
 - 	Petrol (1) 
 - 	Diesel (2)
