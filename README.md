@@ -10,28 +10,28 @@ Have you ever wondered what where you can get the cheapest fuel in your area? we
 
 Fuelio is the world’s first app that the users can use to track fuel prices in their area, note them down and use in the future as references of changes, in addition the app tracks precis location coordinates so it can also be used to save locations that you wish to return to or even to find out exactly where you are if lost. 
 Functionality:
-•	No sign up
-•	Interactive user interface 
-•	Navigation buttons (clearly ladled)
-•	User input box 
-•	GPS tracker 
-•	Data transfer between pages
-•	Notifications 
-•	SQLite database
-•	No internet requirement 
-•	Usage of user data 
-•	Display of current date
-•	User input history
+- 	No sign up
+- 	Interactive user interface 
+- 	Navigation buttons (clearly ladled)
+- 	User input box 
+- 	GPS tracker 
+- 	Data transfer between pages
+- 	Notifications 
+- 	SQLite database
+- 	No internet requirement 
+- Usage of user data 
+- 	Display of current date
+- 	User input history
 Usability:
-•	View real time location 
-•	Create task
-•	View all tasks
-•	Edit tasks
-•	See past location history 
-•	Save any data in text format 
-•	Share data with friends or family 
-•	All data is saved for future reference, easy access to users 
-•	Sync data stored using RoomSQL
+- 	View real time location 
+- 	Create task
+- 	View all tasks
+- 	Edit tasks
+- 	See past location history 
+- 	Save any data in text format 
+- 	Share data with friends or family 
+- 	All data is saved for future reference, easy access to users 
+- 	Sync data stored using RoomSQL
 
 
 
@@ -51,9 +51,9 @@ three different options of fuel, buttons they can click.
 
 
 
-•	Petrol (1) 
-•	Diesel (2)
-•	LPG (3)
+- 	Petrol (1) 
+- 	Diesel (2)
+- 	LPG (3)
 When one of the buttons gets selected it highlights it gray displaying to user that its selected. 
 
 ![Screenshot 2022-12-06 140734](https://user-images.githubusercontent.com/114151300/205933715-3ba00c94-0848-40b2-8c72-b2471c10c343.png)
@@ -85,59 +85,61 @@ again, the user is not required to interact with the previous widgets but if the
 Life cycle event :
 Uses lifecycle aware Views to ensure UI remains the same thought out the pages 
 Uses lifecycle listeners to store state of member variables, and calls them in onViewCreated callback
-•	GetId
-•	Return
-•	onBindViewHolder
-•	getItemCount
-•	ViewHolder
-•	onClick
-•	perform
+- 	GetId
+- 	Return
+- 	onBindViewHolder
+- 	getItemCount
+- 	ViewHolder
+- 	onClick
+- 	perform
 All my pages gave on Create function; it’s Called when the activity is first created. create views, bind data to lists, etc. This method also provides you with a Bundle containing the activity's previously frozen state if there was one. 
 ## Web Service:
 Uses Firebase Realtime API, providing HTTP API for create, get, update, delete tasks, exchanged using JSON with keys:
-•	task id
-•	task type
-•	data time
-•	latitude
-•	longitude 
-•	postcode
-•	city
-•	objective
-•	status
-•	priority
-•	getInstance
-•	doInBackground
-•	DeleteAllDataAsynceTask
-•	ViewModel
-•	Inset
-•	Update
-•	GetAllData
+- 	task id
+- 	task type
+- 	data time
+- latitude
+- 	longitude 
+- 	postcode
+- 	city
+- objective
+- 	status
+- 	priority
+-	getInstance
+- doInBackground
+- DeleteAllDataAsynceTask
+-	ViewModel
+-	Inset
+- 	Update
+- 	GetAllData
 
 ## Data Stored:
  Stores data in a single RoomsQL database table, with columns
-•	task id
-•	task type
-•	data time
-•	latitude
-•	longitude 
-•	postcode
-Mobile specification:
-•	get GPS location
-•	notifications
-•	screen rotation
+- 	task id
+- 	task type
+- 	data time
+- 	latitude
+- longitude 
+- 	postcode
+
+
+## Mobile specification:
+-	get GPS location
+- notifications
+- screen rotation
 
 ## Testing:
-Q: Does the app work on multiple devices?  A: Yes
-Q: Does it work with not WIFI?   A: Yes
-Q: Does the app save all user inputs?   A: Yes
-Q: All buttons work and get recorded separately? A: Yes
-Q: App works with no GPS signal? A: Yes
-Q: Can you add as many lists as the user wants? A: yes
-Q: Does all lists get stored A: yes
-Q: Can the user access all the lists? A: Yes 
-Q: will it still work if user does not select or input anything? A: Yes
-Q: Is there substitution text in case user does not input anything? A: Yes 
-Q: Does users list get saved when the app is closed? A: Yes 
-Q: Does the app remember last user input? A: Yes
+- Q: Does the app work on multiple devices?  A: Yes
+- Q: Does it work with not WIFI?   A: Yes
+- Q: Does the app save all user inputs?   A: Yes
+- Q: All buttons work and get recorded separately? A: Yes
+- Q: App works with no GPS signal? A: Yes
+- Q: Can you add as many lists as the user wants? A: yes
+- Q: Does all lists get stored A: yes
+- Q: Can the user access all the lists? A: Yes 
+- Q: will it still work if user does not select or input anything? A: Yes
+- Q: Is there substitution text in case user does not input anything? A: Yes 
+- Q: Does users list get saved when the app is closed? A: Yes 
+- Q: Does the app remember last user input? A: Yes
 
 
