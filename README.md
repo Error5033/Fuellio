@@ -36,18 +36,31 @@ Usability:
 
 
 ## Wireframe and Prototype:
+![Picture2](https://user-images.githubusercontent.com/114151300/205933291-075c9f97-8c91-45cf-9967-f877dcce516d.png)
+![Screenshot 2022-12-06 140435](https://user-images.githubusercontent.com/114151300/205933388-56e3d90a-f724-454f-8958-6555b4d19213.png)
 
 The app is super simple and straight forward leaving no confusion for the user, no registration is required. When the user opens the app, they are instantly greeted with a simple page. Name of the app buttons to interact with and text boxes to fill.
 User experience/usability:
 three different options of fuel, buttons they can click.
-•	Petrol (1)
+
+
+
+
+![Picture3](https://user-images.githubusercontent.com/114151300/205933464-2f32f929-9fe2-4107-83b8-4047ba45307f.png)
+
+
+
+
+•	Petrol (1) 
 •	Diesel (2)
 •	LPG (3)
 When one of the buttons gets selected it highlights it gray displaying to user that its selected. 
 
+![Screenshot 2022-12-06 140734](https://user-images.githubusercontent.com/114151300/205933715-3ba00c94-0848-40b2-8c72-b2471c10c343.png)
 
 Directly under there is a two box where users can input their post code (4) and the fuel price (5) if they choose, the user can put any data they like there and it will be saved, so its not bounded by one text type. Once that is done the user’s input is saved in local database and displayed on a different page upon request. 
 
+![image](https://user-images.githubusercontent.com/114151300/205933793-453dfc7d-8dc1-45e2-9392-ef4a76ee4ed3.png)
 
 Moving down the page, there are 3 additional buttons (6,7,8)
 each preforming a task, nicely ladled and self-explanatory.
