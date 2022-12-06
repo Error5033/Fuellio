@@ -39,7 +39,7 @@ Usability:
 ![Picture2](https://user-images.githubusercontent.com/114151300/205933291-075c9f97-8c91-45cf-9967-f877dcce516d.png)
 ![Screenshot 2022-12-06 140435](https://user-images.githubusercontent.com/114151300/205933388-56e3d90a-f724-454f-8958-6555b4d19213.png)
 
-
+The navigation is simple, there are tree pages in this application, when the app is opened the first page is displayed. When the user clicks “add” button it takes time to the second page where he can see all the data they inputted, when they click back arrow it takes them back to the main page, page 1. When the user clicks “VIEW ALL” it takes them to the third page where they can see a list of all the previous inputs gathered from page 2 and they can return from page 3 to page 1 simply by pressing the arrow back key.
 
 
 
@@ -47,8 +47,9 @@ Usability:
 ![Picture3](https://user-images.githubusercontent.com/114151300/205933464-2f32f929-9fe2-4107-83b8-4047ba45307f.png)
 
 
-The app is super simple and straight forward leaving no confusion for the user, no registration is required. When the user opens the app, they are instantly greeted with a simple page. Name of the app buttons to interact with and text boxes to fill.
+
 ## User experience/usability:
+The app is super simple and straight forward leaving no confusion for the user, no registration is required. When the user opens the app, they are instantly greeted with a simple page. Name of the app buttons to interact with and text boxes to fill.
 three different options of fuel, buttons they can click.
 
 - 	Petrol (1) 
