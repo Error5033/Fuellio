@@ -143,3 +143,6 @@ Uses Firebase Realtime API, providing HTTP API for create, get, update, delete t
 - Q: Does the app remember last user input? A: Yes
 
 
+https://user-images.githubusercontent.com/114151300/205937895-7c401956-78a2-471c-9d9e-7ec11196ca6d.mp4
+
+
