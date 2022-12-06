@@ -1,8 +1,12 @@
 KAROLIS ZAKSAUSKAS (2209176)
 Fuelio: 
 GPS phone tracker & locator  
-**App Description**
+
+## App Description
 Have you ever wondered what where you can get the cheapest fuel in your area? well stress no more, using Fuelio you are able to track and note down the prices for future reference.
+
+
+
 
 Fuelio is the world’s first app that the users can use to track fuel prices in their area, note them down and use in the future as references of changes, in addition the app tracks precis location coordinates so it can also be used to save locations that you wish to return to or even to find out exactly where you are if lost. 
 Functionality:
@@ -31,8 +35,7 @@ Usability:
 
 
 
-
-Wireframe and Prototype:
+## Wireframe and Prototype:
 
 The app is super simple and straight forward leaving no confusion for the user, no registration is required. When the user opens the app, they are instantly greeted with a simple page. Name of the app buttons to interact with and text boxes to fill.
 User experience/usability:
@@ -65,7 +68,7 @@ Uses lifecycle listeners to store state of member variables, and calls them in o
 •	onClick
 •	perform
 All my pages gave on Create function; it’s Called when the activity is first created. create views, bind data to lists, etc. This method also provides you with a Bundle containing the activity's previously frozen state if there was one. 
-Web Service:
+## Web Service:
 Uses Firebase Realtime API, providing HTTP API for create, get, update, delete tasks, exchanged using JSON with keys:
 •	task id
 •	task type
@@ -85,7 +88,7 @@ Uses Firebase Realtime API, providing HTTP API for create, get, update, delete t
 •	Update
 •	GetAllData
 
-Data Stored:
+## Data Stored:
  Stores data in a single RoomsQL database table, with columns
 •	task id
 •	task type
@@ -98,7 +101,7 @@ Mobile specification:
 •	notifications
 •	screen rotation
 
-Testing:
+## Testing:
 Q: Does the app work on multiple devices?  A: Yes
 Q: Does it work with not WIFI?   A: Yes
 Q: Does the app save all user inputs?   A: Yes
